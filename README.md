@@ -1,5 +1,12 @@
 # Community and Social Sharing App for Sustainable Living | Flutter Code
 
+Community and Social Sharing App for Sustainable Living is a comprehensive Flutter application designed to foster a sense of community among individuals striving for eco-friendly lifestyles. Through this app, users can connect with like-minded individuals, share valuable tips, experiences, and success stories related to sustainable living practices, and inspire others to adopt similar habits. The app provides a platform where users can join various communities dedicated to sustainability, share their achievements, and even post their progress on social media platforms.
+
+# Output:
+![Desktop Screenshot 2024 03 10 - 14 48 29 21](https://github.com/Sivatech24/Community-and-Social-Sharing-App-for-Sustainable-Living-Flutter-Code/assets/93309902/6d17fcae-469a-4d4d-9453-443e2ba59a64)
+![Screenshot_1710062314](https://github.com/Sivatech24/Community-and-Social-Sharing-App-for-Sustainable-Living-Flutter-Code/assets/93309902/dd7523bf-c76e-462b-8f1a-28bc5da1b135)
+![tumb](https://github.com/Sivatech24/Community-and-Social-Sharing-App-for-Sustainable-Living-Flutter-Code/assets/93309902/6749ba42-00f3-437c-a5e1-97f3bbb39235)
+
 # Description:
 Community and Social Sharing App for Sustainable Living is a comprehensive Flutter application designed to foster a sense of community among individuals striving for eco-friendly lifestyles. Through this app, users can connect with like-minded individuals, share valuable tips, experiences, and success stories related to sustainable living practices, and inspire others to adopt similar habits. The app provides a platform where users can join various communities dedicated to sustainability, share their achievements, and even post their progress on social media platforms.
 
